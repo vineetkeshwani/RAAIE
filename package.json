@@ -1,0 +1,19 @@
+{
+  "name": "raaie-sarees",
+  "version": "1.0.0",
+  "description": "Raaie Premium Sarees - Pixel-Perfect E-commerce Clone of Saaj Sarees",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx -y http-server . -p 3000",
+    "start": "npx -y http-server . -p 3000"
+  },
+  "keywords": [
+    "raaie",
+    "sarees",
+    "ecommerce",
+    "luxury",
+    "fashion"
+  ],
+  "author": "Vineet Keshwani & Rishav Gupta",
+  "license": "ISC"
+}
